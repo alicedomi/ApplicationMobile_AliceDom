@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="Hello_world">Hello world !</string>
+
+    <!-- Animaux -->
+    <string-array name="animaux">
+        <item>Chien</item>
+        <item>Chat</item>
+        <item>Cheval</item>
+        <item>Hibou</item>
+        <item>Serpent</item>
+        <item>Chameau</item>
+        <item>Kangourou</item>
+        <item>Kiwi</item>
+    </string-array>
+
+    <!--Pictures -->
+    <array name="image">
+        <item>@drawable/Chien</item>
+        <item>@drawable/Chat</item>
+        <item>@drawable/Cheval</item>
+        <item>@drawable/Hibou</item>
+        <item>@drawable/Serpent</item>
+        <item>@drawable/Chameau</item>
+        <item>@drawable/Kangourou</item>
+        <item>@drawable/Kiwi</item>
+    </array>
+
+    <!-- États -->
+    <string-array name="statues">
+        <item>Amical</item>
+        <item>Poilu</item>
+        <item>Grand</item>
+        <item>Nocturne</item>
+        <item>Deux bosses</item>
+        <item>Dangereux</item>
+        <item>Tout petit</item>
+    </string-array>
+
+    <!-- j'sais pas -->
+    <string-array name="jsaispas">
+        <item>Jesaispas</item>
+        <item>Chaispas</item>
+    </string-array>
+</resources>
